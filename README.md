@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=180&section=header&text=Kiril%20Milosevski&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer&descAlignY=58&descSize=18" alt="Kiril Milosevski, DevOps Engineer" width="100%" />
+  <img src="assets/matrix-banner.svg" alt="Kiril Milosevski, DevOps Engineer, with DevOps tool names raining down Matrix-style" width="100%" />
 </p>
 
 <p align="center">
@@ -7,10 +7,7 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KirilMilosevski/KirilMilosevski/main/dist/pet-light.svg">
-    <img src="https://raw.githubusercontent.com/KirilMilosevski/KirilMilosevski/main/dist/pet.svg" alt="Pixel cat that reacts to my real GitHub activity and CI" width="100%" />
-  </picture>
+  <img src="assets/incident.svg" alt="Incident card cycling from triggered to acknowledged to resolved: coffee level low, espresso deployed" />
 </p>
 
 # Hi, I'm Kiril
