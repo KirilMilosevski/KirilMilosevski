@@ -35,12 +35,12 @@ resource "engineer" "kiril" {
 
 ## What I do
 
-- Design and operate AWS and Azure infrastructure for SaaS / platform workloads
+- Design and operate AWS and Azure infrastructure for iGaming and SaaS platforms
 - Infrastructure as Code with **Terraform** and **AWS CDK**
 - CI/CD with GitHub Actions and GitLab CI (OIDC, image scanning, safe rollouts)
 - Containers and orchestration: Docker, ECS, Kubernetes, Helm, Argo CD
-- Observability: Grafana, Prometheus, Alloy, Loki, CloudWatch, Datadog
-- Networking and access: DNS, VPN, Cloudflare, IAM / managed identities
+- Observability and incident response for 30 production clients and 400+ services: Grafana, Prometheus, Alloy, Loki, CloudWatch, Datadog
+- Networking and access: DNS, a company-wide WireGuard VPN, Cloudflare, IAM / managed identities
 - Security in the pipeline: Trivy, Gitleaks, least-privilege IAM
 
 ## Skills
@@ -80,9 +80,9 @@ observability    1/1     Running
 | Cloud | AWS (EC2, ECS, ECR, Lambda, IAM, VPC, CloudFront, WAF, SSM) · Azure (Function Apps, APIM, Front Door, Cosmos DB, Key Vault, Managed Identity, Service Bus) |
 | IaC | Terraform, AWS CDK |
 | Delivery | Docker, Kubernetes, Helm, Argo CD, GitHub Actions, GitLab CI |
-| Observability | Grafana, Prometheus, Alloy, Loki, CloudWatch, Datadog, alerting, incident response |
-| Security | Trivy, Gitleaks, OIDC, Keycloak, Sealed Secrets |
-| Data | PostgreSQL, Redis/Valkey, SQL migrations |
+| Observability | Grafana, Prometheus, Alloy, Loki, CloudWatch, Datadog, Kibana, Zabbix, UptimeRobot, alerting, incident response |
+| Security | Trivy, Gitleaks, OIDC, Keycloak, WireGuard, OAuth2 Proxy, Sealed Secrets |
+| Data | PostgreSQL, Prisma, Redis/Valkey, SQL migrations |
 
 </details>
 
