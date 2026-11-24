@@ -92,11 +92,9 @@ observability    1/1     Running
 - **[Homelab](https://github.com/KirilMilosevski/Homelab)** — Archived early lab (superseded by Enterprise-k8s-platform)
 
 <p>
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Fkirilmilosevski.github.io%2Fkiril-cv-landing%2F&label=portfolio&up_message=online&style=for-the-badge" alt="Portfolio status" />
   <a href="https://github.com/KirilMilosevski/Enterprise-k8s-platform/actions/workflows/main-ci.yml"><img src="https://github.com/KirilMilosevski/Enterprise-k8s-platform/actions/workflows/main-ci.yml/badge.svg" alt="Enterprise-k8s-platform CI" /></a>
 </p>
 
 ## Links
 
-- Portfolio: [kirilmilosevski.github.io/kiril-cv-landing](https://kirilmilosevski.github.io/kiril-cv-landing/)
 - LinkedIn: [kiril-milosevski](https://www.linkedin.com/in/kiril-milosevski-603b25241)
